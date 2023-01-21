@@ -1,9 +1,0 @@
-2022/10/10-23:57:38.799 4514 Reusing MANIFEST E:\node\ws-sender-dev\tokens\ws\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/10-23:57:38.800 4514 Recovering log #344
-2022/10/10-23:57:38.803 4514 Reusing old log E:\node\ws-sender-dev\tokens\ws\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000344.log 
-2022/10/10-23:57:40.572 fe8 Compacting 1@1 + 1@2 files
-2022/10/10-23:57:40.634 fe8 Generated table #347@1: 25971 keys, 2062212 bytes
-2022/10/10-23:57:40.635 fe8 Compacted 1@1 + 1@2 files => 2062212 bytes
-2022/10/10-23:57:40.635 fe8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/10/10-23:57:40.636 fe8 Delete type=2 #343
-2022/10/10-23:57:40.636 fe8 Delete type=2 #345
